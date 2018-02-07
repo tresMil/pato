@@ -1,0 +1,227 @@
+#EXTM3U
+#EXTINF:-1,AXN
+http://m3u.iptvla.xyz/usuarios/src5/AXN/Fanstv/uC2.m3u8
+#EXTINF:-1,TyC Sports
+https://vivoplay-i.akamaihd.net/hls/live/255333/canal5/master2500k.m3u8
+#EXTINF:-1,CampusTV SD
+http://xcampushdx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,IB3
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
+#EXTINF:-1,CINEMAX
+http://m3u.iptvla.xyz/usuarios/src1/Cinemax/Fanstv/uC2.m3u8
+#EXTINF:-1,DISCOVERY THEATER
+http://m3u.iptvla.xyz/usuarios/src1/DiscoveryTheaterHD/Fanstv/uC2.m3u8
+#EXTINF:-1,DISCOVERY H&H
+http://m3u.iptvla.xyz/usuarios/src1/DiscoveryHH/Fanstv/uC2.m3u8
+#EXTINF:-1,HISTORY CHANNEL
+http://m3u.iptvla.xyz/usuarios/src1/HistoryChannel/Fanstv/uC2.m3u8
+#EXTINF:-1,Animal Planet
+http://m3u.iptvla.xyz/usuarios/src1/AnimalPlanet/Fanstv/uC2.m3u8
+#EXTINF:-1,National Geo HD
+http://m3u.iptvla.xyz/usuarios/src1/NatGeo/Fanstv/uC2.m3u8
+#EXTINF:-1,Investigation Discovery
+http://m3u.iptvla.xyz/usuarios/src1/InvestigationDiscovery/Fanstv/uC2.m3u8
+#EXTINF:-1,TNT
+http://m3u.iptvla.xyz/usuarios/src1/TNT/Fanstv/uC2.m3u8
+#EXTINF:-1,TNT Series
+http://portal.geniptv.com:8080/live/EZO1T7lN77/ckdXc4qL2i/5324.ts
+#EXTINF:-1,Fox
+http://m3u.iptvla.xyz/usuarios/src5/Fox/Fanstv/uC2.m3u8
+#EXTINF:-1,Fox Cinema
+http://portal.geniptv.com:8080/live/EZO1T7lN77/ckdXc4qL2i/5363.ts
+#EXTINF:-1,Fox Action
+http://portal.geniptv.com:8080/live/EZO1T7lN77/ckdXc4qL2i/5364.ts
+#EXTINF:-1,Fox Movies
+http://m3u.iptvla.xyz/usuarios/src1/FoxMovies/Fanstv/uC2.m3u8
+#EXTINF:-1,FOX SERIES
+http://m3u.iptvla.xyz/usuarios/src1/Fox1HD/Fanstv/uC2.m3u8
+#EXTINF:-1,ENTRETENIMIENTO:Fox Life
+http://portal.geniptv.com:8080/live/EZO1T7lN77/ckdXc4qL2i/5361.ts
+#EXTINF:-1,Golden
+http://m3u.iptvla.xyz/usuarios/src1/GoldenHD/Fanstv/uC2.m3u8
+#EXTINF:-1,UNIVERSAL
+http://m3u.iptvla.xyz/usuarios/src1/StudioUniversal/Fanstv/uC2.m3u8
+#EXTINF:-1,Sony
+http://m3u.iptvla.xyz/usuarios/src1/SonyHD/Fanstv/uC2.m3u8
+#EXTINF:-1,UNIVERSAL CHANNELL
+http://m3u.iptvla.xyz/usuarios/src1/UniversalHD/Fanstv/uC2.m3u8
+#EXTINF:-1,Cinecanal
+http://m3u.iptvla.xyz/usuarios/src1/CinecanalHD/Fanstv/uC2.m3u8
+#EXTINF:-1,Film Zone
+http://m3u.iptvla.xyz/usuarios/src1/FilmZoneHD/Fanstv/uC2.m3u8
+#EXTINF:-1,AMC
+http://m3u.iptvla.xyz/usuarios/src1/AMC/Fanstv/uC2.m3u8
+#EXTINF:-1,WarnerChannel
+http://m3u.iptvla.xyz/usuarios/src1/WarnerChannelHD/Fanstv/uC2.m3u8
+#EXTINF:-1,Mega
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?
+#EXTINF:-1,Nova
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,Neox
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1,Canal Decasa
+#EXTINF:-1 ,Nick
+#EXTINF:-1,Nick
+http://m3u.iptvla.xyz/usuarios/src1/Nickelodeon/Fanstv/uC2.m3u8
+#EXTINF:-1,Nicktoons
+http://m3u.iptvla.xyz/usuarios/src1/NickToons/Fanstv/uC2.m3u8
+#EXTINF:-1,Discovery Kids
+http://m3u.iptvla.xyz/usuarios/src1/DiscoveryKids/Fanstv/uC2.m3u8
+#EXTINF:-1,TIIN
+http://m3u.iptvla.xyz/usuarios/src1/Tiin/Fanstv/uC2.m3u8
+#EXTINF:-1,TOONCAST
+http://m3u.iptvla.xyz/usuarios/src1/Tooncast/Fanstv/uC2.m3u8
+#EXTINF:-1,Disney Junior
+http://m3u.iptvla.xyz/usuarios/src1/DisneyJunior/Fanstv/uC2.m3u8
+#EXTINF:-1,Disney Channel
+http://m3u.iptvla.xyz/usuarios/src1/DisneyChannel/Fanstv/uC2.m3u8
+#EXTINF:-1,Disney XD
+http://m3u.iptvla.xyz/usuarios/src1/DisneyXD/Fanstv/uC2.m3u8
+#EXTINF:-1,Atres Series
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:-1,La Sexta HD
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Antena 3
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+#EXTINF:-1,TV Malaga
+http://cls.todostreaming.eu/101tv/livestream2/chunklist.m3u8
+#EXTINF:-1,Calle 13 HD
+http://portal.geniptv.com:8080/live/EZO1T7lN77/ckdXc4qL2i/1049.ts
+#EXTINF:-1,Canal Andalucia Turismo
+http://cast.streamingconnect.com:1935/csturismo/csturismo/playlist.m3u8
+#EXTINF:-1,NON STOP PEOPLE
+http://portal.geniptv.com:8080/live/EZO1T7lN77/ckdXc4qL2i/6041.ts
+#EXTINF:-1,Comedy Central
+http://m3u.iptvla.xyz/usuarios/src1/ComedyCentralHD/Fanstv/uC2.m3u8
+#EXTINF:-1,Distrito Comedia
+http://m3u.iptvla.xyz/usuarios/src1/DistritoComedia/Fanstv/uC2.m3u8
+#EXTINF:-1,Telefe
+http://vivoplay-i.akamaihd.net/hls/live/261555/canal1/master2500k.m3u8
+#EXTINF:-1,Lancelot TV
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:-1,Hola TV
+http://vivoplay-i.akamaihd.net/hls/live/255334/canal6/master2500k.m3u8
+#EXTINF:-1,laOtra
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
+#EXTINF:-1,Telemadrid
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
+#EXTINF:-1,Cosmo Tv
+http://portal.geniptv.com:8080/live/EZO1T7lN77/ckdXc4qL2i/1047.ts
+#EXTINF:-1,CNN Chile [HD]
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+#EXTINF:-1,HispanTV
+http://178.32.255.199:1935/live/hispantv/chunklist_w1362269254.m3u8
+#EXTINF:-1,TELESUR
+http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
+#EXTINF:-1,CANAL 26
+http://200.115.193.177/live/26hd-720/.m3u8
+#EXTINF:-1,RT
+http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8
+#EXTINF:-1,TV Marti
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,DW
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+#EXTINF:-1,ADN 40
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
+#EXTINF:-1,MVS Noticias
+http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
+#EXTINF:-1,Dominicanyork TV
+http://stream.dominicanyork.tv:1935/dominicanyorktv/DMYTV/live.m3u8
+#EXTINF:-1,Azteca 13
+http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
+#EXTINF:-1,A+
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,AZTECA CLIC
+http://vivoplay-i.akamaihd.net/hls/live/255339/canal10/master2500k.m3u8
+#EXTINF:-1,Azteca Corazón
+http://vivoplay-i.akamaihd.net/hls/live/255340/canal10/master2500k.m3u8
+#EXTINF:-1,Once TV
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8
+#EXTINF:-1,AZTECA MUNDO
+http://portal.geniptv.com:8080/live/EZO1T7lN77/ckdXc4qL2i/5387.ts
+#EXTINF:-1,Canal 5 HD
+http://m3u.iptvla.xyz/usuarios/src1/Canal5/Fanstv/uC2.m3u8
+#EXTINF:-1,Azteca7
+http://m3u.iptvla.xyz/usuarios/src1/Azteca7/Fanstv/uC2.m3u8
+#EXTINF:-1,TV Peru HD
+http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1,RCN NVLS
+https://vivoplay-i.akamaihd.net/hls/live/255325/canal5/master2500k.m3u8
+#EXTINF:-1,RCN
+http://vivoplay-i.akamaihd.net/hls/live/255327/canal7/master2500k.m3u8
+#EXTINF:-1,Caracol
+http://vivoplay-i.akamaihd.net/hls/live/253482/canal1/master2500k.m3u8
+#EXTINF:-1,VE Plus TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
+#EXTINF:-1,ESTRELLAS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:-1,GALA TV
+http://m3u.iptvla.xyz/usuarios/src1/GalaTV/Fanstv/uC2.m3u8
+#EXTINF:-1,Univision
+http://portal.geniptv.com:8080/live/EZO1T7lN77/ckdXc4qL2i/5320.ts
+#EXTINF:-1,UNIVISION
+https://hls-ord-1a.vaughnsoft.net/den/live/live_tvhdenvivo2/chunklist.m3u8
+#EXTINF:-1,UNIVISION PR
+http://cdnh8.iblups.com/hls/TzMLT5VhhH.m3u8?
+#EXTINF:-1,UNICABLE
+http://m3u.iptvla.xyz/usuarios/src1/Unicable/Fanstv/uC2.m3u8
+#EXTINF:-1,Latin Angels HD
+http://vivoplay-i.akamaihd.net/hls/live/255330/canal1/master2500k.m3u8
+#EXTINF:-1,Show Business HD
+http://vivoplay-i.akamaihd.net/hls/live/255331/canal2/master2500k.m3u8
+#EXTINF:-1,TC Mi Canal
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
+#EXTINF:-1,Telemundo
+http://portal.geniptv.com:8080/live/EZO1T7lN77/ckdXc4qL2i/5326.ts
+#EXTINF:-1,TELEMUNDO
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_anahix11/chunklist.m3u8
+#EXTINF:-1,MUSICA TODOS LOS GENEROS
+#EXTINF:-1  ,MTV Latino 
+#EXTINF:-1,MTV Latino
+http://m3u.iptvla.xyz/usuarios/src1/MTV/Fanstv/uC2.m3u8
+#EXTINF:-1,MTV
+http://portal.geniptv.com:8080/live/EZO1T7lN77/ckdXc4qL2i/5349.ts
+#EXTINF:-1,MTV Rocks
+http://portal.geniptv.com:8080/live/EZO1T7lN77/ckdXc4qL2i/494.ts
+#EXTINF:-1,VH1
+http://portal.geniptv.com:8080/live/EZO1T7lN77/ckdXc4qL2i/5318.ts
+#EXTINF:-1,VH1 Classic
+http://portal.geniptv.com:8080/live/EZO1T7lN77/ckdXc4qL2i/491.ts
+#EXTINF:-1,Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_1500_av-p.m3u8
+#EXTINF:-1,TLT
+http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8?time=1485382261151
+#EXTINF:-1,COLOMBIA:Cantinazo
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+#EXTINF:-1,Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Mi Musica HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:-1,M2O TV [SD]
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Hard Life [SD]
+http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8
+#EXTINF:-1,COLOMBIA:Mi Musica HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
+#EXTINF:-1,City Radio TV [SD]
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
+#EXTINF:-1,Tigo Music
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
+#EXTINF:-1,MUSICA:VOX TV olds Cool MUSICAL
+https://stream.smcdn.pl/vox-t/vox_360p/chunklist_w1129473971_tkd293emF0b2tlbmVuZHRpbWU9MTQ5NTg4MzcwMCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTAmd293emF0b2tlbmhhc2g9V1NDc3g4M3VhRlN2Q2hnazZKcVlTb1UzcmFjcVZFeXlLTmZCSXpYcVNLaz0=.m3u8
+#EXTINF:-1,MUSICA:Retro Tv MUSICAL
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,MUSICA:Capital Tv MUSICAL
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,Radio Universal TV
+rtmp://flash2.streaming.xdevel.com:80/radiouniversaltv/radiouniversaltv
+#EXTINF:-1,Radio MonteCarlo TV
+http://fms.105.net:1935/live/rmc1/.m3u8
+#EXTINF:-1,Radio 105 TV
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+#EXTINF:-1,Latin American Sports
+https://vivoplay-i.akamaihd.net/hls/live/253483/canal2/master2500k.m3u8
+#EXTINF:-1,TyC Sports
+https://vivoplay-i.akamaihd.net/hls/live/255333/canal5/master2500k.m3u8
+#EXTINF:-1,PXSports
+https://vivoplay-i.akamaihd.net/hls/live/255324/canal4/master2500k.m3u8
